@@ -1,8 +1,11 @@
 # Exoplanet Transit Simulator
 
-[![Test Exoplanet Transit](https://github.com/rtfisher/exoplanet_transit/actions/workflows/test.yml/badge.svg)](https://github.com/rtfisher/exoplanet_transit/actions/workflows/test.yml)
+[![Test Exoplanet Transit](https://github.com/rtfisher/exoplanet-transit-visualization/actions/workflows/test.yml/badge.svg)](https://github.com/rtfisher/exoplanet-transit-visualization/actions/workflows/test.yml)
 
-An interactive Python animation of an exoplanet transit, designed for use with introductory astronomy students.  The simulator shows the geometry of the
+![Exoplanet Transit Simulator screenshot](exoplanet_transit_screenshot.png)
+
+An interactive Python animation of an exoplanet transit, designed for use by
+introductory astronomy students.  The simulator shows the geometry of the
 transit on the stellar disk alongside the resulting photometric light curve,
 and lets students explore how the **impact parameter** shapes both.
 
@@ -114,7 +117,11 @@ independently by the test suite without launching a display window.
 
 ## License
 
+<<<<<<< HEAD
 Educational use permitted.  
+=======
+Educational use permitted.  Created for introductory astronomy students.
+>>>>>>> 4209681 (Add screenshot and fix README references)
 
 ## Author
 
