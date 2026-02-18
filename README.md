@@ -2,8 +2,7 @@
 
 [![Test Exoplanet Transit](https://github.com/rtfisher/exoplanet_transit/actions/workflows/test.yml/badge.svg)](https://github.com/rtfisher/exoplanet_transit/actions/workflows/test.yml)
 
-An interactive Python animation of an exoplanet transit, designed for use in
-PHY 252 Intermediate Astrophysics.  The simulator shows the geometry of the
+An interactive Python animation of an exoplanet transit, designed for use with introductory astronomy students.  The simulator shows the geometry of the
 transit on the stellar disk alongside the resulting photometric light curve,
 and lets students explore how the **impact parameter** shapes both.
 
