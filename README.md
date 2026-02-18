@@ -114,7 +114,7 @@ independently by the test suite without launching a display window.
 
 ## License
 
-Educational use permitted.  Created for PHY 252 Intermediate Astrophysics.
+Educational use permitted.  
 
 ## Author
 
